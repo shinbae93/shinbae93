@@ -23,6 +23,6 @@
 
 </td><td valign="top" width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinbae93&hide_border=true&layout=compact&theme=github_dark" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinbae93&hide_border=true&layout=compact&theme=github_dark&hide=sass,scss,less" align="left" style="width: 100%" />
 
 </td></tr></table>  
