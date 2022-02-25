@@ -18,5 +18,5 @@
 
 ## Github Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true&theme=vedical" align="left" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact&theme=github_dark&hide=sass,scss,less" align="right" style="width: 50%" />
