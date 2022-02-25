@@ -18,10 +18,10 @@
 
 <!-- <table style="border:none"><tr><td valign="top" width="50%"> -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shinbae93&show_icons=true&locale=en&layout=compact&theme=github_dark&hide=scss,sass,less" alt="shinbae93" align="left" style="width: 50%" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shinbae93&show_icons=true&locale=en&layout=compact&theme=github_dark&hide=scss,sass,less" alt="shinbae93" align="left" style="width: 50%" display="inline-block"/>
 
 <!-- </td><td valign="top" width="50%"> -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shinbae93&show_icons=true&locale=en&theme=radical" alt="shinbae93" align="right" style="width: 50%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shinbae93&show_icons=true&locale=en&theme=radical" alt="shinbae93" align="right" style="width: 50%"  display="inline-block"/>
 
 <!-- </td></tr></table>   -->
