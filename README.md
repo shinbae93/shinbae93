@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinbae93&label=Profile%20views&color=0e75b6&style=flat" alt="shinbae93" /> </p>
 
-- 🌱 I’m currently learning **Javascript, Typescript, NodeJS, ExpressJS, ReactJS, NestJS, GraphQL, PostgreSQL**
+- 🌱 I’m currently learning **Javascript, Typescript, NodeJS, ExpressJS, ReactJS, NestJS, GraphQL, PostgreSQL, MongoDB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
