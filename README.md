@@ -21,4 +21,4 @@
 
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=shinbae93&show_icons=true&count_private=true&hide_border=true&theme=radical&count_private=true" align="left" style="width: 50%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinbae93&hide_border=true&layout=compact&theme=github_dark&hide=scss,sass,less" align="center" style="width: 47%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinbae93&hide_border=true&layout=compact&theme=github_dark&hide=scss,sass,less&langs_count=6" align="center" style="width: 47%" />
