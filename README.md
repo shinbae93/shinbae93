@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hung and I'm a Backend Engineer, from Viet Nam</h2>
+<h2 align="left">Hi 👋! My name is Hung and I'm a Backend Engineer from Viet Nam</h2>
 
 ###
 
