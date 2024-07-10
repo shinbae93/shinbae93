@@ -20,12 +20,6 @@
    </a
 </div>
 
-###
-
-<img align="right" height="275" src="https://i.pinimg.com/originals/dc/ec/1b/dcec1b91a998db018ca3097ab1f19d93.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
@@ -42,6 +36,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" width="42" alt="redis logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
 </div>
+
+###
+
+###
+
+<img align="right" height="200" src="https://i.pinimg.com/originals/dc/ec/1b/dcec1b91a998db018ca3097ab1f19d93.gif"  />
 
 ###
 
