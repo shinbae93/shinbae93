@@ -49,7 +49,7 @@
 
 <div align="left">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/shinbae93?theme=dark&font=Comic%20Neue&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/shinbae93?theme=dark&font=Comic%20Neue)
 
 </div>
 
