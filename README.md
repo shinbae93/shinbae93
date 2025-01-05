@@ -49,7 +49,7 @@
 
 <div align="left">
 
-![LeetCode Stats](https://leetcode.card.workers.dev/shinbae93?theme=nord&font=baloo&extension=null)
+![LeetCode Stats]([https://leetcode.card.workers.dev/shinbae93?theme=nord&font=baloo&extension=null](https://leetcard.jacoblin.cool/shinbae93?theme=dark&font=Comic%20Neue&ext=activity))
 
 </div>
 
